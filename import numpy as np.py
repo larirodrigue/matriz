@@ -42,7 +42,7 @@ a = float(input('Informe a hipotenusa: '))
 b = float(input('Informe o ângulo: '))
 seno = math.sin(math.radians(b))
 altura = seno * a
-print(f'A altura do prédio tem {altura:.2f}m')'''
+print(f'A altura do prédio tem {altura:.3f}m')'''
 
 
 #ex3
